@@ -1,0 +1,7 @@
+#ECLIPSE
+.project
+.buildpath
+.dub/
+.settings/
+bin/*
+*~
